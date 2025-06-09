@@ -1,0 +1,8 @@
+giu 08, 2025 11:47:20 AM com.server.MyLogger warn
+WARNING: Loading :user
+giu 08, 2025 11:47:54 AM com.server.MyLogger log
+INFO: User andrea logged in
+giu 08, 2025 11:48:15 AM com.server.MyLogger warn
+WARNING: Loading :report
+giu 08, 2025 11:51:32 AM com.server.MyLogger warn
+WARNING: Loading :pothole
